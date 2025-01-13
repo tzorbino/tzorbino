@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 I am currently a student at Tech Elevator studying full stack software development.
 I am looking to collaborate on new ideas.
 Ask me about my dog.
-You can reach me at tzorbino@gmail.com
-My pronouns are he/him.
-Fun fact is I am a bartender.
+When I am not coding I am probably working as a bartender.
