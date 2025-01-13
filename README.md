@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Tony 👋
 
 <!--
 **tzorbino/tzorbino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...  I am a bartender
 -->
 
-I am currently working on git.
-I am currently learning software development through tech elevator.
+I am currently a student at Tech Elevator studying full stack software development.
 I am looking to collaborate on new ideas.
-I am looking for help with loops in java script.
 Ask me about my dog.
 You can reach me at tzorbino@gmail.com
 My pronouns are he/him.
