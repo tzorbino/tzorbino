@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...  I am a bartender
 -->
 
-I am currently a student at Tech Elevator studying full stack software development.
-I am looking to collaborate on new ideas.
-Ask me about my dog.
-When I am not coding I am probably working as a bartender.
+
+Tech Elevator Grad! Looking for new opportunites on a swe team. 
+Lets Collaborate!
